@@ -17,6 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 Hi! Welcome to my Homepage!
+
+# About Me
+
 I am now a third year undergraduate student from Kuang Yaming Honors School, Nanjing University. I am going to pursue the master's degree at the Knowledge Computing Lab (KCL), Peking University (PKU) in the fall of 2024. My research interests include natural language processing, machine learning and out-of-distribution generalization.
 
 # 🔥 News
