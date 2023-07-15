@@ -22,8 +22,6 @@ I am now a third year undergraduate student from Kuang Yaming Honors School, Nan
 # 🔥 News
 - *2022.06*: &nbsp;🎉🎉 I finished my internship in NJUNLP!
 
-# 📝 Publications 
-
 # 📖 Educations
 - *2020.09 - 2024.06*, undergraduate student in the Kuang Yaming Honors School of Nanjing University.
 - *2024.09 - 2027.06*, master student in the School of Software Microelectronics of Peking University. 
