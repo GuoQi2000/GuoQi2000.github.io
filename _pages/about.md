@@ -20,10 +20,11 @@ Hi! Welcome to my Homepage!
 
 # About Me
 
-I am now a third year undergraduate student from Kuang Yaming Honors School, Nanjing University. I am going to pursue the master's degree at the Knowledge Computing Lab (KCL), Peking University (PKU) in the fall of 2024. My research interests include natural language processing, machine learning and out-of-distribution generalization.
+I am now a senior student at Kuang Yaming Honors School, Nanjing University, China. I am going to pursue the master's degree at the Knowledge Computing Lab (KCL), Peking University (PKU) in the fall of 2024. My research interests include natural language processing, large languague models and out-of-distribution generalization.
 
 # 🔥 News
 - *2022.06*: &nbsp;🎉🎉 I finished my internship in NJUNLP!
+- *2022.10*: &nbsp;🎉🎉 Paper “Debias NLU Datasets via Training-free Perturbations” is accepted by findings of EMNLP 2023!
 
 # 📖 Educations
 - *2020.09 - 2024.06*, undergraduate student in the Kuang Yaming Honors School of Nanjing University.
