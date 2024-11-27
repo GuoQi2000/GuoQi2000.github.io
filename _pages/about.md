@@ -23,6 +23,7 @@ Hi! Welcome to my Homepage!
 I am currently a master student at the Knowledge Computing Lab (KCL) of Peking University (PKU). I completed my undergraduate studies at the Kuang Yaming Honors School, Nanjing University. My research interests include natural language processing, large language models, in-context learning and out-of-distribution generalization.
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 Paper “AutoSurvey: Large Language Models Can Automatically Write Surveys” is accepted by NeurIPS 2024!
 - *2024.07*: &nbsp;🎉🎉 I graduated from Nanjing University!
 - *2024.06*: &nbsp;🎉🎉 Paper “What Makes a Good Order of Examples in In-Context Learning” is accepted by Findings of ACL 2024!
 - *2023.10*: &nbsp;🎉🎉 Paper “Debias NLU Datasets via Training-free Perturbations” is accepted by Findings of EMNLP 2023!
@@ -46,7 +47,7 @@ I am currently a master student at the Knowledge Computing Lab (KCL) of Peking U
 # 📝 Publications 
 3. **[AutoSurvey: Large Language Models Can Automatically Write Surveys]**. [paper]; 
 
-   [Yidong Wang, **Qi Guo (co-first author)**, Wenjin Yao, Hongbo Zhang, Xin Zhang, Zhen Wu, Meishan Zhang, Xinyu Dai, Min Zhang, Qingsong Wen, Wei Ye, Shikun Zhang, Yue Zhang].
+   [Yidong Wang, **Qi Guo (Equal Contribution)**, Wenjin Yao, Hongbo Zhang, Xin Zhang, Zhen Wu, Meishan Zhang, Xinyu Dai, Min Zhang, Qingsong Wen, Wei Ye, Shikun Zhang, Yue Zhang].
    
 
 2. **[What Makes a Good Order of Examples in In-Context Learning]**. [paper]; 
